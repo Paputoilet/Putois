@@ -1,33 +1,76 @@
-[20:04:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:04:06] [ServerMain/INFO]: Loaded 1290 recipes
-[20:04:07] [ServerMain/INFO]: Loaded 1399 advancements
-[20:04:08] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[20:04:08] [Server thread/INFO]: Loading properties
-[20:04:08] [Server thread/INFO]: Default game type: SURVIVAL
-[20:04:08] [Server thread/INFO]: Generating keypair
-[20:04:08] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:04:08] [Server thread/INFO]: Using epoll channel type
-[20:04:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:04:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:04:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:04:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:04:08] [Server thread/INFO]: Preparing level "world"
-[20:04:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:04:12] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:04:12] [Worker-Main-2/INFO]: Preparing spawn area: 14%
-[20:04:12] [Server thread/INFO]: Time elapsed: 675 ms
-[20:04:12] [Server thread/INFO]: Done (3.960s)! For help, type "help"
-[20:04:14] [Server thread/INFO]: Shark123[/127.160.142.18:55389] logged in with entity id 44 at (258.0971992598147, 62.9375, 368.7370518070089)
-[20:04:14] [Server thread/INFO]: Shark123 joined the game
-[20:04:33] [Server thread/INFO]: Papugrasatoilet[/127.104.178.10:35207] logged in with entity id 685 at (256.31144068148996, 62.9375, 378.7377737008312)
-[20:04:33] [Server thread/INFO]: Papugrasatoilet joined the game
-[20:06:58] [Server thread/INFO]: Papugrasatoilet has made the advancement [Crafting a New Look]
-[20:08:33] [Server thread/INFO]: Shark123 has made the advancement [Not Quite "Nine" Lives]
-[20:10:16] [Server thread/INFO]: [Papugrasatoilet: Set own game mode to Survival Mode]
-[20:10:27] [Server thread/INFO]: [Papugrasatoilet: Set own game mode to Creative Mode]
-[20:10:41] [Server thread/INFO]: [Papugrasatoilet: Set own game mode to Survival Mode]
-[20:10:48] [Server thread/INFO]: [Papugrasatoilet: Set Shark123's game mode to Survival Mode]
-[20:11:16] [Server thread/INFO]: [Papugrasatoilet: The difficulty has been set to Normal]
-[20:11:40] [Server thread/INFO]: Papugrasatoilet has made the advancement [Not Quite "Nine" Lives]
-[20:12:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=229, y=39, z=423} jd{x=229, y=38, z=422}
-[20:12:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=229, y=39, z=423} jd{x=229, y=38, z=422}
+[20:21:41] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:21:42] [ServerMain/INFO]: No existing world data, creating new world
+[20:21:43] [ServerMain/INFO]: Loaded 1290 recipes
+[20:21:43] [ServerMain/INFO]: Loaded 1399 advancements
+[20:21:44] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[20:21:44] [Server thread/INFO]: Loading properties
+[20:21:44] [Server thread/INFO]: Default game type: SURVIVAL
+[20:21:44] [Server thread/INFO]: Generating keypair
+[20:21:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:21:44] [Server thread/INFO]: Using epoll channel type
+[20:21:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:21:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:21:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:21:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:21:44] [Server thread/INFO]: Preparing level "world"
+[20:21:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:21:50] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[20:21:50] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[20:21:51] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[20:21:51] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[20:21:52] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[20:21:52] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[20:21:53] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[20:21:53] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[20:21:54] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[20:21:54] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[20:21:55] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[20:21:55] [Worker-Main-1/INFO]: Preparing spawn area: 53%
+[20:21:55] [Server thread/INFO]: Time elapsed: 5651 ms
+[20:21:55] [Server thread/INFO]: Done (11.197s)! For help, type "help"
+[20:21:57] [Server thread/INFO]: Disconnecting Shark123 (/127.160.142.18:58185): You are banned from this server.
+Reason: Banned by an operator.
+[20:21:57] [Server thread/INFO]: Shark123 (/127.160.142.18:58185) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[20:21:57] [Server thread/WARN]: handleDisconnection() called twice
+[20:22:13] [Server thread/INFO]: Disconnecting Shark123 (/127.160.142.18:59339): You are banned from this server.
+Reason: Banned by an operator.
+[20:22:13] [Server thread/INFO]: Shark123 (/127.160.142.18:59339) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[20:22:13] [Server thread/WARN]: handleDisconnection() called twice
+[20:22:14] [Server thread/INFO]: Papugrasatoilet[/127.104.178.10:35179] logged in with entity id 35 at (54.5, 94.0, 6.5)
+[20:22:14] [Server thread/INFO]: Papugrasatoilet joined the game
+[20:23:18] [Server thread/INFO]: Incorrect argument for command
+[20:23:18] [Server thread/INFO]: ...on schiso shark123<--[HERE]
+[20:23:27] [Server thread/INFO]: Unbanned Shark123
+[20:23:54] [Server thread/INFO]: Shark123[/127.160.142.18:50665] logged in with entity id 464 at (42.5, 92.0, -5.5)
+[20:23:54] [Server thread/INFO]: Shark123 joined the game
+[20:25:09] [Server thread/INFO]: Shark123 has made the advancement [Stone Age]
+[20:25:25] [Server thread/INFO]: Papugrasatoilet has made the advancement [Stone Age]
+[20:25:33] [Server thread/INFO]: Shark123 drowned
+[20:26:11] [Server thread/INFO]: [Papugrasatoilet: The difficulty has been set to Peaceful]
+[20:26:42] [Server thread/INFO]: [Not Secure] <Papugrasatoilet> buena suerte
+[20:27:16] [Server thread/INFO]: Papugrasatoilet has made the advancement [Getting an Upgrade]
+[20:27:45] [Server thread/INFO]: [Papugrasatoilet: Set own game mode to Spectator Mode]
+[20:27:48] [Server thread/INFO]: [Papugrasatoilet: Teleported Papugrasatoilet to Shark123]
+[20:28:38] [Server thread/INFO]: [Papugrasatoilet: Teleported Papugrasatoilet to 100.500000, 60.000000, -149.500000]
+[20:28:38] [Server thread/WARN]: Papugrasatoilet moved too quickly! 55.80000001192093,-29.024424088213692,-17.31920251447997
+[20:28:38] [Server thread/WARN]: Papugrasatoilet moved too quickly! 55.80000001192093,-28.0,-16.865444768328842
+[20:28:39] [Server thread/WARN]: Papugrasatoilet moved too quickly! 55.80000001192093,-28.0,-16.802568950912388
+[20:28:39] [Server thread/WARN]: Papugrasatoilet moved too quickly! 54.71834248149019,-28.0,-16.7946506967389
+[20:28:39] [Server thread/WARN]: Papugrasatoilet moved too quickly! 53.893856603545885,-28.0,-16.856339814270513
+[20:28:39] [Server thread/WARN]: Papugrasatoilet moved too quickly! 52.570428446593475,-29.00133597911214,-17.01537019344852
+[20:28:39] [Server thread/WARN]: Papugrasatoilet moved too quickly! 51.717419474005546,-29.25220334025373,-17.072233006329043
+[20:28:39] [Server thread/WARN]: Papugrasatoilet moved too quickly! 50.86679124942433,-29.0,-17.090444807155535
+[20:28:40] [Server thread/WARN]: Papugrasatoilet moved too quickly! 49.53821175462154,-29.0,-17.159530355534372
+[20:28:40] [Server thread/WARN]: Papugrasatoilet moved too quickly! 48.886785031915956,-29.0,-17.635383657549767
+[20:28:40] [Server thread/WARN]: Papugrasatoilet moved too quickly! 47.5644344063432,-30.249187078744683,-18.39441377527939
+[20:28:41] [Server thread/INFO]: [Papugrasatoilet: Set own game mode to Survival Mode]
+[20:28:44] [Server thread/INFO]: [Papugrasatoilet: Set own game mode to Spectator Mode]
+[20:28:53] [Server thread/INFO]: [Not Secure] <Shark123> bro una pregunta
+[20:28:56] [Server thread/INFO]: [Not Secure] <Papugrasatoilet> dime
+[20:29:04] [Server thread/INFO]: [Not Secure] <Shark123> las esmeraldas se pican con pico de piedra¿
+[20:29:07] [Server thread/INFO]: [Papugrasatoilet: Set own game mode to Survival Mode]
+[20:29:10] [Server thread/INFO]: [Not Secure] <Papugrasatoilet> no XD
+[20:29:31] [Server thread/INFO]: Shark123 has made the advancement [Getting an Upgrade]
+[20:30:26] [Server thread/INFO]: [Not Secure] <Papugrasatoilet> atencion 15:50 se quita el pacifico¡¡
