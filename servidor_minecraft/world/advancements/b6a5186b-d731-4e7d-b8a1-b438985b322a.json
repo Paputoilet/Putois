@@ -3963,17 +3963,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-01-14 16:30:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-01-14 16:30:47 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2025-01-14 16:36:12 -0500"
     },
     "done": true
-  },
-  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
-    "criteria": {
-      "armor_trimmed_minecraft:ward_armor_trim_smithing_template_smithing_trim": "2025-01-14 17:03:01 -0500"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/crimson_slab": {
     "criteria": {
@@ -3987,18 +3993,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2025-01-14 16:30:47 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_hyphae": {
-    "criteria": {
-      "has_log": "2025-01-14 16:30:47 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-14 16:36:12 -0500"
@@ -4008,12 +4002,6 @@
   "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
       "has_planks": "2025-01-14 16:36:12 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2025-01-14 16:58:13 -0500"
     },
     "done": true
   },
@@ -4040,6 +4028,18 @@
       "has_planks": "2025-01-14 16:36:12 -0500"
     },
     "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-01-14 16:58:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:ward_armor_trim_smithing_template_smithing_trim": "2025-01-14 17:03:01 -0500"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }

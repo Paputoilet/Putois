@@ -1,12 +1,53 @@
-[00:00:11] [Server thread/INFO]: Papugrasatoilet was killed by [Intentional Game Design]
-[00:00:18] [Server thread/INFO]: [Papugrasatoilet: Teleported Papugrasatoilet to Shark123]
-[00:00:20] [Server thread/INFO]: [Papugrasatoilet: Set own game mode to Creative Mode]
-[00:00:56] [Server thread/INFO]: Papugrasatoilet has made the advancement [Monster Hunter]
-[00:00:59] [Server thread/INFO]: [Papugrasatoilet: Set own game mode to Survival Mode]
-[00:01:22] [Server thread/INFO]: Papugrasatoilet was killed by [Intentional Game Design]
-[00:01:27] [Server thread/INFO]: [Papugrasatoilet: Teleported Papugrasatoilet to Shark123]
-[00:01:37] [Server thread/INFO]: [Papugrasatoilet: Set own game mode to Creative Mode]
-[00:02:03] [Server thread/INFO]: Papugrasatoilet lost connection: Disconnected
-[00:02:03] [Server thread/INFO]: Papugrasatoilet left the game
-[00:03:17] [Server thread/INFO]: Shark123 lost connection: Disconnected
-[00:03:17] [Server thread/INFO]: Shark123 left the game
+[19:23:22] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:23:23] [ServerMain/INFO]: Loaded 1290 recipes
+[19:23:24] [ServerMain/INFO]: Loaded 1399 advancements
+[19:23:24] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[19:23:24] [Server thread/INFO]: Loading properties
+[19:23:24] [Server thread/INFO]: Default game type: SURVIVAL
+[19:23:24] [Server thread/INFO]: Generating keypair
+[19:23:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:23:24] [Server thread/INFO]: Using epoll channel type
+[19:23:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:23:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:23:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:23:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:23:24] [Server thread/INFO]: Preparing level "world"
+[19:23:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:23:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:23:27] [Server thread/INFO]: Time elapsed: 488 ms
+[19:23:27] [Server thread/INFO]: Done (2.903s)! For help, type "help"
+[19:23:29] [Server thread/INFO]: Shark123[/127.160.142.18:57773] logged in with entity id 25 at (-46.5, 84.0, 38.5)
+[19:23:29] [Server thread/INFO]: Shark123 joined the game
+[19:23:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-41, y=87, z=25}
+[19:24:10] [Server thread/INFO]: Papugrasatoilet[/127.104.178.10:55891] logged in with entity id 329 at (-41.5, 83.0, 38.5)
+[19:24:10] [Server thread/INFO]: Papugrasatoilet joined the game
+[19:24:16] [Server thread/INFO]: [Not Secure] <Papugrasatoilet> lenny?
+[19:24:23] [Server thread/INFO]: [Not Secure] <Papugrasatoilet> sale un porno? XDDD
+[19:24:28] [Server thread/INFO]: [Not Secure] <Shark123> q¿
+[19:24:42] [Server thread/INFO]: [Papugrasatoilet: Teleported Papugrasatoilet to Shark123]
+[19:25:24] [Server thread/INFO]: [Papugrasatoilet: Teleported Papugrasatoilet to 200.500000, 60.000000, 1000.500000]
+[19:25:26] [Server thread/INFO]: [Papugrasatoilet: Set own game mode to Spectator Mode]
+[19:25:31] [Server thread/INFO]: [Papugrasatoilet: Teleported Papugrasatoilet to 200.500000, 60.000000, 100.500000]
+[19:25:41] [Server thread/INFO]: [Papugrasatoilet: Teleported Shark123 to Papugrasatoilet]
+[19:25:42] [Server thread/INFO]: Shark123 fell from a high place
+[19:25:58] [Server thread/INFO]: [Papugrasatoilet: Teleported Shark123 to Papugrasatoilet]
+[19:26:01] [Server thread/INFO]: Shark123 fell from a high place
+[19:26:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-37, y=84, z=34}
+[19:26:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-37, y=84, z=33}
+[19:26:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-36, y=84, z=32}
+[19:26:14] [Server thread/INFO]: [Papugrasatoilet: Teleported Shark123 to Papugrasatoilet]
+[19:26:23] [Server thread/INFO]: [Papugrasatoilet: Set own game mode to Survival Mode]
+[19:26:26] [Server thread/INFO]: Papugrasatoilet fell from a high place
+[19:26:27] [Server thread/INFO]: [Papugrasatoilet: Set own game mode to Spectator Mode]
+[19:26:31] [Server thread/INFO]: [Papugrasatoilet: Teleported Papugrasatoilet to Shark123]
+[19:26:47] [Server thread/INFO]: [Papugrasatoilet: Set own game mode to Survival Mode]
+[19:26:51] [Server thread/INFO]: Papugrasatoilet has completed the challenge [Cover Me in Debris]
+[19:26:59] [Server thread/INFO]: Papugrasatoilet has reached the goal [Sky's the Limit]
+[19:27:12] [Server thread/INFO]: Shark123 has reached the goal [Sky's the Limit]
+[19:28:00] [Server thread/INFO]: Shark123 has completed the challenge [Cover Me in Debris]
+[19:28:48] [Server thread/INFO]: Locating element minecraft:pillager_outpost took 63 ms
+[19:28:55] [Server thread/INFO]: [Papugrasatoilet: Teleported Papugrasatoilet to -1711.500000, 63.937500, 320.500000]
+[19:29:15] [Server thread/INFO]: [Papugrasatoilet: Teleported Shark123 to Papugrasatoilet]
+[19:29:40] [Server thread/INFO]: Papugrasatoilet has made the advancement [Monster Hunter]
+[19:29:46] [Server thread/INFO]: Papugrasatoilet has made the advancement [Take Aim]
+[19:31:11] [Server thread/INFO]: Papugrasatoilet has made the advancement [Stone Age]
